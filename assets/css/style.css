@@ -54,14 +54,6 @@ header nav ul li {
     background-position: center;
 }
 
-.hero img {
-    float: left;
-    margin-right: 5px;
-    background: url("../images/digital-marketing-meeting.jpg") -71px 0;
-    width: 21px;
-    height: 21px;
-}
-
 /* MAIN */
 
 main {
