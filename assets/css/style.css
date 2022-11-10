@@ -54,7 +54,21 @@ header nav ul li {
     background-position: center;
 }
 
+.hero img {
+    float: left;
+    margin-right: 5px;
+    background: url("../images/digital-marketing-meeting.jpg") -71px 0;
+    width: 21px;
+    height: 21px;
+}
+
 /* MAIN */
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 
 a {
     color: #ffffff;
@@ -73,12 +87,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .content-1, .content-2, .content-3 {
