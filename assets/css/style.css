@@ -81,7 +81,7 @@ main {
     margin-left: 20px;
 }
 
-.services-1, .services-2, .services-3 {
+.content-1, .content-2, .content-3 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -90,11 +90,11 @@ main {
     color: #ffffff;
 }
 
-.services-1 img, .services-2 img, .services-3 img {
+.content-1 img, .content-2 img, .content-3 img {
     max-height: 200px;
 }
 
-.services-1 h2, .services-2 h2,.services-3 h2{
+.content-1 h2, .content-2 h2,.content-3 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
